@@ -22,7 +22,7 @@
 
 ---
 
-## 🇬🇧 About Me
+## EN About Me
 
 I'm a software developer interested in building useful, maintainable, and scalable digital solutions.
 
